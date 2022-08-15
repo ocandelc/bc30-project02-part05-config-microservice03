@@ -1,6 +1,6 @@
 spring:
   application:
-    name: config-microservice02-gateway
+    name: config-microservice03-gateway
   cloud:
     config:
       uri: http://localhost:8081
